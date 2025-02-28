@@ -1,18 +1,18 @@
 {
-    "Email": {
-        "url": "mailto:youremail@example.com",
-        "iconClassName": "bi bi-envelope-fill"
-    },
-    "LinkedIn": {
-        "url": "https://linkedin.com/in/your-linkedin",
-        "iconClassName": "bi bi-linkedin"
-    },
-    "GitHub": {
-        "url": "https://github.com/your-profile",
-        "iconClassName": "bi bi-github"
-    },
-    "Medium": {
-        "url": "https://your-medium-profile",
-        "iconClassName": "bi bi-medium"
-    }
+  "Email": {
+    "url": "nwokeprecious23@gmail.com",
+    "iconClassName": "bi bi-envelope-fill"
+  },
+  "LinkedIn": {
+    "url": "https://www.linkedin.com/in/precious-nwoke-39b7bb1b9/",
+    "iconClassName": "bi bi-linkedin"
+  },
+  "GitHub": {
+    "url": "https://github.com/NwokePrecious",
+    "iconClassName": "bi bi-github"
+  },
+  "Medium": {
+    "url": "https://medium.com/@nwokeprecious23",
+    "iconClassName": "bi bi-medium"
+  }
 }
